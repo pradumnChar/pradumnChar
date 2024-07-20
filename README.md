@@ -21,4 +21,4 @@ I'm on the lookout for exciting projects and collaboration opportunities. If you
 
 📫 Let's Connect
 Email: pradumnjadli@gmail.com
-PORTFOLIO: https://portfolio-pradumn.vercel.app
+Portfolio: https://portfolio-pradumn.vercel.app
